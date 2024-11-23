@@ -21,3 +21,15 @@ Watch the gameplay demo [here](https://drive.google.com/file/d/1mN7NJylmF7WmH-RB
 1. Install the required library `pygame`:
    ```bash
    pip install pygame
+
+2. Clone or download the github repository.
+3. Run the game using the following command:
+   ```bash
+   python avengers_game.py
+
+---
+
+## **Contact**
+For any questions or feedback, feel free to reach out to [swapnildas742@gmail.com](mailto:swapnildas742@gmail.com)
+
+   
